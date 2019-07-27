@@ -1,2 +1,3 @@
 # hello-world
-git guide
+Mi nombre es Mariano. My name is Mariano.
+I'm learning web development. Estoy aprendiendo desarrollo web. Hasta pronto.
